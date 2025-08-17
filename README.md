@@ -1,5 +1,6 @@
 # MongoPrimeraPractica-
-<img width="921" height="333" alt="image" src="https://github.com/user-attachments/assets/774852ec-7735-4142-ba95-f1c0d58a75d9" />
+<img width="923" height="323" alt="image" src="https://github.com/user-attachments/assets/e094e68a-0b0a-4f52-8613-31b9d032ac32" />
+
 
 Práctica de MongoDB – MongoDB Compass
 Descripción
