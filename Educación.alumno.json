@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "689e9ad3df0d96c223794369"
+  },
+  "Nombre": "luisa Vallejo",
+  "edad": 25,
+  "cedula": 172737,
+  "curso": "tercero"
+},
+{
+  "_id": {
+    "$oid": "68a242cf0e6bc092061ae66a"
+  },
+  "Nombre": "Elias Villaz",
+  "Edad": 23,
+  "Cedula": "123456",
+  "Materia": "Sociales"
+}]

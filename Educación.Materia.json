@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "68a23ff80e6bc092061ae666"
+  },
+  "N. Materia": "Ciencia Naturales",
+  "N° de horas": 3,
+  "N. profesor": "Evelyn Gualpa"
+},
+{
+  "_id": {
+    "$oid": "68a244350e6bc092061ae67d"
+  },
+  "N. Materia": "Matematica",
+  "N° de horas": 4,
+  "N. profesor": "Salome Guzman"
+}]

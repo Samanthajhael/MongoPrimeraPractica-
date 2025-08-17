@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "689e9b35df0d96c22379436c"
+  },
+  "Nombre": "Patricio",
+  "Apellido": "Espinosa",
+  "materia": "ciencias",
+  "cedula": 1567890,
+  "Area": "Biologia"
+},
+{
+  "_id": {
+    "$oid": "68a243800e6bc092061ae66e"
+  },
+  "Nombre": "Ernesto",
+  "Apellido": "Garcia",
+  "materia": "ciencias",
+  "cedula": 1567890,
+  "Area": "Biologia"
+}]
